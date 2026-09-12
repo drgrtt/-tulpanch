@@ -7,13 +7,13 @@ Build a portrait mobile 2D/2.5D flower-shop game where the player physically har
 Before changing gameplay, progression, economy, onboarding, monetization, world layout, art direction, or system behavior, read the relevant files in `docs/`.
 
 Priority when documents conflict:
-1. `docs/00_MASTER_GDD_v0.4.md`
-2. `docs/01_PROGRESSION_ECONOMY.md`
-3. `docs/02_GAME_SYSTEMS.md`
-4. `docs/03_WORLD_AND_CONTENT.md`
-5. `docs/04_PRODUCTION_BIBLE.md`
-6. `docs/05_DEPENDENCY_MATRIX.md`
-7. `docs/00_GAP_ANALYSIS.md`
+1. `docs/MASTER_GDD.md`
+2. `docs/PROGRESSION_ECONOMY.md`
+3. `docs/GAME_SYSTEMS.md`
+4. `docs/WORLD_AND_CONTENT.md`
+5. `docs/PRODUCTION_BIBLE.md`
+6. `docs/DEPENDENCY_MATRIX.md`
+7. `docs/GAP_ANALYSIS.md`
 
 Do not silently redesign the game. If implementation reveals a conflict or missing rule, preserve the existing design and flag the decision explicitly.
 
