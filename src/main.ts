@@ -4,7 +4,7 @@ import { PrototypeScene } from './scenes/PrototypeScene';
 const config: Phaser.Types.Core.GameConfig = {
   type: Phaser.AUTO,
   parent: 'game',
-  backgroundColor: '#f6efe6',
+  backgroundColor: '#252729',
   scale: {
     mode: Phaser.Scale.FIT,
     autoCenter: Phaser.Scale.CENTER_BOTH,
@@ -14,4 +14,4 @@ const config: Phaser.Types.Core.GameConfig = {
   scene: [PrototypeScene],
 };
 
-new Phaser.Game(config);
+export const game = new Phaser.Game(config);

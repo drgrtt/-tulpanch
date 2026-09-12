@@ -1,0 +1,12 @@
+{
+  "carryCapacity": 10,
+  "playerMaxSpeed": 260,
+  "playerAcceleration": 3200,
+  "playerDeceleration": 3000,
+  "steeringResponsiveness": 32,
+  "inputDeadZone": 12,
+  "inputMaxRadius": 64,
+  "inputAxisSnapDegrees": 12,
+  "movementMaxDelta": 0.05,
+  "velocityStopThreshold": 1
+}
