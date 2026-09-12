@@ -1,0 +1,9 @@
+[
+  {
+    "id": "tulip",
+    "growthSeconds": 6,
+    "yield": 4,
+    "baseUnitValue": 2,
+    "unlock": "start"
+  }
+]
